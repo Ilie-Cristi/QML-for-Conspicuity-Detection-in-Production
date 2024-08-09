@@ -33,21 +33,17 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: Cristian Ilie
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-iDNMmhgv05EEz4b
 
-
-Team Member 2:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
 
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
+The submitted project includes Task 1 to 4. The first three helped me better understand the topic and the fourth one proposed an optimization technique regarding the number of shots needed for a variational quantum circuit that reproduces the sine function with a specific precision. 
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
 ### Project Presentation Deck:
-_Upload/ Link a 3min. presentation deck here._
+Ppt presentation included.
 
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
 
